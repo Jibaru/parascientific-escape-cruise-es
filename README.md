@@ -4,6 +4,9 @@ Parche de traducción al español (es-419) del juego de Nintendo 3DS *Parascient
 
 **Incluye:** diálogos, opciones, objetos, menús e imágenes con texto (pantalla de título, prólogo, rótulos de zona, tutoriales, créditos y acertijos).
 
+## Tráiler
+[![Tráiler de la traducción](https://img.youtube.com/vi/7BvPsXoa4fE/hqdefault.jpg)](https://www.youtube.com/watch?v=7BvPsXoa4fE)
+
 ## Descarga
 En [Releases](../../releases). El zip **solo contiene parches** (BPS/IPS) y parcheadores; no incluye el juego ni archivos del juego. Necesitas tu propia copia legal.
 
